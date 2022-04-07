@@ -2,6 +2,9 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
+    text-shadow: 0 0 2px #000;
+    color: rgb(154, 228, 44);
 }
 header{
     background-color: aqua;
@@ -11,7 +14,7 @@ header{
 }
 main{
     width: 100%;
-    background-color: silver;    
+    background-image: url('../assets/images/wallpaper.jpg');    
     padding-top: 6px;
 }
 .container{
